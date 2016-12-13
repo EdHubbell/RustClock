@@ -1,3 +1,18 @@
+// Clock Electronics Hardware: 
+// arduino mega ($12)
+// 2.1mm x 5.5mm Male CCTV Power Plug Adapter ($5)
+// DC 5V 5A 25W power supply ($11)
+// POW3U PowerBoard-3U with Power Rails, 1 Sided PCB ($11)
+// DS3231 AT24C32 IIC Module Precision Real Time Clock Memory Module ($9)
+// CEC 0.95W 6.3V 0.15A Mini T3.25 Bulb (10 for $7)
+// 22 PN2222ATF ($0.20 each from Mouser)
+// 11 1k ohm resistors 
+// For assembly: 
+// IWISS SN-28B DUPONT Terminal Ratchet Crimper  ($20)
+// Hilitchi 635 Pcs 40 Pin 2.54mm Pitch Single Row Pin Headers ($17)
+// good soldering iron.
+// You'll probably need some wires. 
+// And dev boards as well, just to make sure you are wiring it right. 
 
 #include "Wire.h"
 #define DS3231_I2C_ADDRESS 0x68
