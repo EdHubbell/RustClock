@@ -1,4 +1,4 @@
-# RustClock
+# Rust Clock
 
 This project contains the code to run a Rust Clock. What is that? Well, it was a clock designed by a guy with the last name of Rust. Then it got old and didn't work anymore, so I stuck an Arduino in it to fix it. And pulled out a shit-ton of old wires and transformers and whatnot. So it lost a little weight.
 
